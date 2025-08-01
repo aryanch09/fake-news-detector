@@ -19,3 +19,6 @@ pip install -r requirements.txt
 
 # 3. Run the app
 streamlit run app.py
+
+Note: To run the app, first run train_and_save_model.py to generate the model files (lr_model.pkl, vectorizer.pkl).
+You can get the dataset from (https://drive.google.com/drive/folders/1ByadNwMrPyds53cA6SDCHLelTAvIdoF_) or use your own.
